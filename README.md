@@ -1,4 +1,4 @@
-<img src="images/logo.png" style="float: left;" alt="drawing" width="200"/>
+<img src="images/logo.png" style="float: left;" alt="drawing" width="300"/>
 
 
 <div style="clear:both"></div>
